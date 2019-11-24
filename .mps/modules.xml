@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/Example1/Example1.mpl" folder="example1" />
+      <modulePath path="$PROJECT_DIR$/languages/Example2/Example2.mpl" folder="example2" />
+      <modulePath path="$PROJECT_DIR$/languages/Example3/Example3.mpl" folder="example3" />
+      <modulePath path="$PROJECT_DIR$/languages/Example3/sandbox/Example3.sandbox.msd" folder="example3" />
+      <modulePath path="$PROJECT_DIR$/languages/Example4/Example4.mpl" folder="example4" />
+      <modulePath path="$PROJECT_DIR$/languages/Example4/sandbox/Example4.sandbox.msd" folder="example4" />
+      <modulePath path="$PROJECT_DIR$/languages/Example5/Example5.mpl" folder="example5" />
+      <modulePath path="$PROJECT_DIR$/languages/Example5/sandbox/Example5.sandbox.msd" folder="example5" />
+      <modulePath path="$PROJECT_DIR$/languages/NewLanguage/NewLanguage.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/NewLanguage/sandbox/NewLanguage.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/Example1.sandbox/Example1.sandbox.msd" folder="example1" />
+      <modulePath path="$PROJECT_DIR$/solutions/Example2.sandbox/Example2.sandbox.msd" folder="example2" />
+    </projectModules>
+  </component>
+</project>
